@@ -8,9 +8,9 @@ The VBA scripting is done to analyze generated stock market data and find perfor
 # Analysis
 
 Each Ticker's performance is analyzed by using parameters such as :
-i) YearlyChange - Difference between opening price at the beginning of a given year to the closing price at the end of that year.
-ii) Percentage Change 
-iii) Total stock volume of the stock
+1.  YearlyChange - Difference between opening price at the beginning of a given year to the closing price at the end of that year.
+2.  Percentage Change 
+3.  Total stock volume of the stock
 
 Conditional formatting is done for YearlyChange and Percentage Change columns that highlights positive change in green and negative change in red respectively.
 
